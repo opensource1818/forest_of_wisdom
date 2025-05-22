@@ -144,17 +144,17 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cube",
-                "value": "{\"m_Value\":{\"x\":-2.182373046875,\"y\":24.382404327392579,\"z\":-5.0635986328125}}"
+                "value": "{\"m_Value\":{\"x\":-4.1102294921875,\"y\":4.392084121704102,\"z\":0.7705078125}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Plane",
-                "value": "{\"m_Value\":{\"x\":-0.9976922869682312,\"y\":0.0,\"z\":-7.968995094299316}}"
+                "value": "{\"m_Value\":{\"x\":1.30517578125,\"y\":0.0,\"z\":-31.205078125}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cylinder",
-                "value": "{\"m_Value\":{\"x\":-0.5992431640625,\"y\":3.5027761459350588,\"z\":-0.74627685546875}}"
+                "value": "{\"m_Value\":{\"x\":-1.951171875,\"y\":0.3266716003417969,\"z\":-2.1612548828125}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
