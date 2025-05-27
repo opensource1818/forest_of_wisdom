@@ -144,12 +144,12 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Cube",
-                "value": "{\"m_Value\":{\"x\":1.6351318359375,\"y\":14.848087310791016,\"z\":-1.29296875}}"
+                "value": "{\"m_Value\":{\"x\":81.7724609375,\"y\":11.960319519042969,\"z\":45.1806640625}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize.Plane",
-                "value": "{\"m_Value\":{\"x\":1.30517578125,\"y\":0.0,\"z\":-31.205078125}}"
+                "value": "{\"m_Value\":{\"x\":-1.9316444396972657,\"y\":0.0,\"z\":2.766300916671753}}"
             },
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
